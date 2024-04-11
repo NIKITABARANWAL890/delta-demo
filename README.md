@@ -5,4 +5,4 @@ This is a demo for git and github class.
 Shraddha Khapra
 
 # Student
-Nikita Baranwal
+Nikita Baranwal.
